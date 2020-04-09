@@ -1,0 +1,401 @@
+location	site	habitat	year	ttm	plot.code	teabag.pair	tea.type	length	code	initial.weight	final.weight	soil.moisture.1	soil.moisture.2	soil.moisture.m	moss.thickness	litter.thickness	shrubs	soil.depth	burial.date	recovery.date	days.buried	ph.1	ph.2	ph.m	comments
+Endalen	NNW moss	B1	2017	control	B1	a	G	F	B1.aGF	2.1118				56.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B1	2017	control	B1	b	G	F	B1.bGF	2.0792				22.4					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B1	2017	control	B1	a	R	F	B1.aRF	2.2541				56.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B1	2017	control	B1	b	R	F	B1.bRF	2.2138				22.4					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B10	2017	warming	B10	a	G	F	B10.aGF	2.1053				33.4					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B10	2017	warming	B10	b	G	F	B10.bGF	2.1492				30.3					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B10	2017	warming	B10	a	R	F	B10.aRF	2.2168				33.4					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B10	2017	warming	B10	b	R	F	B10.bRF	2.2496				30.3					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B11	2017	exclosure	B11	a	G	F	B11.aGF	2.0072				43					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B11	2017	exclosure	B11	b	G	F	B11.bGF	1.9994				45.3					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B11	2017	exclosure	B11	a	R	F	B11.aRF	2.2029				43					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B11	2017	exclosure	B11	b	R	F	B11.bRF	2.195				45.3					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B12	2017	control	B12	a	G	F	B12.aGF	1.9745				42.2					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B12	2017	control	B12	b	G	F	B12.bGF	1.9952				26.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B12	2017	control	B12	a	R	F	B12.aRF	2.1751				42.2					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B12	2017	control	B12	b	R	F	B12.bRF	2.2174				26.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B13	2017	exclosure	B13	a	G	F	B13.aGF	2.0181				35.5					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B13	2017	exclosure	B13	b	G	F	B13.bGF	1.9478				47.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B13	2017	exclosure	B13	a	R	F	B13.aRF	2.1991				35.5					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B13	2017	exclosure	B13	b	R	F	B13.bRF	2.2012				47.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B14	2017	control	B14	a	G	F	B14.aGF	2.0228				56.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B14	2017	control	B14	b	G	F	B14.bGF	2.0294				40.25					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B14	2017	control	B14	a	R	F	B14.aRF	2.1629				56.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B14	2017	control	B14	b	R	F	B14.bRF	2.1669				40.25					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B15	2017	exclosure	B15	a	G	F	B15.aGF	2.0089				45.1					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B15	2017	exclosure	B15	b	G	F	B15.bGF	2.008				29.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B15	2017	exclosure	B15	a	R	F	B15.aRF	2.1888				45.1					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B15	2017	exclosure	B15	b	R	F	B15.bRF	2.2172				29.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B2	2017	warming	B2	a	G	F	B2.aGF	2.0911				37.5					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B2	2017	warming	B2	b	G	F	B2.bGF	1.9988				47.5					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B2	2017	warming	B2	a	R	F	B2.aRF	2.2682				37.5					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B2	2017	warming	B2	b	R	F	B2.bRF	2.2304				47.5					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B3	2017	exclosure	B3	a	G	F	B3.aGF	2.0711				43.1					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B3	2017	exclosure	B3	b	G	F	B3.bGF	2.0979				47.5					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B3	2017	exclosure	B3	a	R	F	B3.aRF	2.2163				43.1					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B3	2017	exclosure	B3	b	R	F	B3.bRF	2.2383				47.5					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B4	2017	warming	B4	a	G	F	B4.aGF	2.0608				22.4					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B4	2017	warming	B4	b	G	F	B4.bGF	2.1259				20.3					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B4	2017	warming	B4	a	R	F	B4.aRF	2.1731				22.4					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B4	2017	warming	B4	b	R	F	B4.bRF	2.2468				20.3					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B5	2017	control	B5	a	G	F	B5.aGF	2.096				21.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B5	2017	control	B5	b	G	F	B5.bGF	2.0618				33.1					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B5	2017	control	B5	a	R	F	B5.aRF	2.2014				21.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B5	2017	control	B5	b	R	F	B5.bRF	2.2912				33.1					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B6	2017	warming	B6	a	G	F	B6.aGF	2.0584				23.1					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B6	2017	warming	B6	b	G	F	B6.bGF	2.0605				18.6					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B6	2017	warming	B6	a	R	F	B6.aRF	2.2496				23.1					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B6	2017	warming	B6	b	R	F	B6.bRF	2.3377				18.6					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B7	2017	exclosure	B7	a	G	F	B7.aGF	2.1054				46.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B7	2017	exclosure	B7	b	G	F	B7.bGF	2.0703				26.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B7	2017	exclosure	B7	a	R	F	B7.aRF	2.2065				46.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B7	2017	exclosure	B7	b	R	F	B7.bRF	2.1875				26.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B8	2017	warming	B8	a	G	F	B8.aGF	2.0245				22.3					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B8	2017	warming	B8	b	G	F	B8.bGF	2.1414				25.8					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B8	2017	warming	B8	a	R	F	B8.aRF	2.2306				22.3					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B8	2017	warming	B8	b	R	F	B8.bRF	2.226				25.8					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B9	2017	control	B9	a	G	F	B9.aGF	2.048				33.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B9	2017	control	B9	b	G	F	B9.bGF	2.1377				40.9					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B9	2017	control	B9	a	R	F	B9.aRF	2.2163				33.7					25.6.2017	8.7.2018	378				
+Endalen	NNW moss	B9	2017	control	B9	b	R	F	B9.bRF	2.2642				40.9					25.6.2017	8.7.2018	378				
+Endalen	Snowbed	BIS-L1	2017	warming	BL1	a	G	F	BL1.aGF	2.0274	0.7587			43.8					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L1	2017	warming	BL1	b	G	F	BL1.bGF	2.0138	0.8057			34.7					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L1	2017	warming	BL1	a	R	F	BL1.aRF	2.192	1.6297			43.8					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L1	2017	warming	BL1	b	R	F	BL1.bRF	2.1823	1.7495			34.7					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L10	2017	control	BL10	a	G	F	BL10.aGF	2.1129	0.9256			42					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L10	2017	control	BL10	b	G	F	BL10.bGF	2.0668	0.7995			46.8					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L10	2017	control	BL10	a	R	F	BL10.aRF	2.1666	1.6633			42					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L10	2017	control	BL10	b	R	F	BL10.bRF	2.2434	2.0038			46.8					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L2	2017	control	BL2	a	G	F	BL2.aGF	2.137	0.7177			40.4					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L2	2017	control	BL2	b	G	F	BL2.bGF	2.1108	0.8265			33.6					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L2	2017	control	BL2	a	R	F	BL2.aRF	2.1723	1.6394			40.4					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L2	2017	control	BL2	b	R	F	BL2.bRF	2.1678	1.5595			33.6					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L3	2017	control	BL3	a	G	F	BL3.aGF	2.0299	0.7751			48.5					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L3	2017	control	BL3	b	G	F	BL3.bGF	2.0391	0.6884			39.6					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L3	2017	control	BL3	a	R	F	BL3.aRF	2.16	1.5212			48.5					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L3	2017	control	BL3	b	R	F	BL3.bRF	2.1723	1.6075			39.6					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L4	2017	warming	BL4	a	G	F	BL4.aGF	2.0097	0.7387			35.4					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L4	2017	warming	BL4	b	G	F	BL4.bGF	2.1122	0.78			33.4					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L4	2017	warming	BL4	a	R	F	BL4.aRF	2.2369	1.6143			35.4					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L4	2017	warming	BL4	b	R	F	BL4.bRF	2.2075	1.6014			33.4					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L5	2017	warming	BL5	a	G	F	BL5.aGF	2.0522	0.8189			30					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L5	2017	warming	BL5	b	G	F	BL5.bGF	2.012	0.65			27.9					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L5	2017	warming	BL5	a	R	F	BL5.aRF	2.1834	1.6303			30					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L5	2017	warming	BL5	b	R	F	BL5.bRF	2.1933	1.6135			27.9					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L6	2017	control	BL6	a	G	F	BL6.aGF	2.0544	1.0487			21.8					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L6	2017	control	BL6	b	G	F	BL6.bGF	2.1227	1.0976			37.2					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L6	2017	control	BL6	a	R	F	BL6.aRF	2.2119	2.116			21.8					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L6	2017	control	BL6	b	R	F	BL6.bRF	2.1923	2.0135			37.2					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L7	2017	warming	BL7	a	G	F	BL7.aGF	2.0545	0.9167			38.7					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L7	2017	warming	BL7	b	G	F	BL7.bGF	2.0661	0.7164			34.7					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L7	2017	warming	BL7	a	R	F	BL7.aRF	2.2397	1.5912			38.7					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L7	2017	warming	BL7	b	R	F	BL7.bRF	2.212	1.7651			34.7					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L8	2017	control	BL8	a	G	F	BL8.aGF	2.0218	NA			35.2					25.6.2017	4.7.2018	374	bag lost			
+Endalen	Snowbed	BIS-L8	2017	control	BL8	b	G	F	BL8.bGF	2.1168	0.9736			37.2					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L8	2017	control	BL8	a	R	F	BL8.aRF	2.2043	1.7281			35.2					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L8	2017	control	BL8	b	R	F	BL8.bRF	2.1876	1.8568			37.2					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L9	2017	warming	BL9	a	G	F	BL9.aGF	2.0983	1.0412			46.1					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L9	2017	warming	BL9	b	G	F	BL9.bGF	1.9899	0.7401			30.5					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L9	2017	warming	BL9	a	R	F	BL9.aRF	2.3004	1.9163			46.1					25.6.2017	4.7.2018	374				
+Endalen	Snowbed	BIS-L9	2017	warming	BL9	b	R	F	BL9.bRF	2.168	1.5632			30.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L1	2017	control	CL1	a	G	F	CL1.aGF	1.977	1.0195			49.3					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L1	2017	control	CL1	b	G	F	CL1.bGF	1.976	0.92			57.6					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L1	2017	control	CL1	a	R	F	CL1.aRF	2.2545	1.6303			49.3					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L1	2017	control	CL1	b	R	F	CL1.bRF	2.2209	NA			57.6					25.6.2017	4.7.2018	374	bag ripped			
+Endalen	Cassiope	CAS-L10	2017	control	CL10	a	G	F	CL10.aGF	2.0425	1.0883			46.8					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L10	2017	control	CL10	b	G	F	CL10.bGF	2.0822	1.0339			36.6					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L10	2017	control	CL10	a	R	F	CL10.aRF	2.2334	1.6293			46.8					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L10	2017	control	CL10	b	R	F	CL10.bRF	2.2103	1.6569			36.6					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L11	2017	exclosure	CL11	a	G	F	CL11.aGF	2.0698	0.978			63.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L11	2017	exclosure	CL11	b	G	F	CL11.bGF	1.9804	1.0293			45.9					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L11	2017	exclosure	CL11	a	R	F	CL11.aRF	2.2498	1.5871			63.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L11	2017	exclosure	CL11	b	R	F	CL11.bRF	2.2685	1.7337			45.9					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L12	2017	warming	CL12	a	G	F	CL12.aGF	2.112	0.8799			56.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L12	2017	warming	CL12	b	G	F	CL12.bGF	2.0872	1.0316			39.2					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L12	2017	warming	CL12	a	R	F	CL12.aRF	2.2176	1.6502			56.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L12	2017	warming	CL12	b	R	F	CL12.bRF	2.1844	1.645			39.2					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L13	2017	exclosure	CL13	a	G	F	CL13.aGF	2.0367	1.0884			43.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L13	2017	exclosure	CL13	b	G	F	CL13.bGF	2.0661	1.0713			50.2					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L13	2017	exclosure	CL13	a	R	F	CL13.aRF	2.195	1.579			43.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L13	2017	exclosure	CL13	b	R	F	CL13.bRF	2.2396	1.6834			50.2					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L14	2017	warming	CL14	a	G	F	CL14.aGF	2.0568	0.8965			30.55					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L14	2017	warming	CL14	b	G	F	CL14.bGF	1.9541	0.9731			62.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L14	2017	warming	CL14	a	R	F	CL14.aRF	2.1486	1.6231			30.55					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L14	2017	warming	CL14	b	R	F	CL14.bRF	2.2472	1.6811			62.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L15	2017	exclosure	CL15	a	G	F	CL15.aGF	2.0325	1.0808			50.3					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L15	2017	exclosure	CL15	b	G	F	CL15.bGF	2.0622	1.0261			40.05					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L15	2017	exclosure	CL15	a	R	F	CL15.aRF	2.1703	1.63			50.3					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L15	2017	exclosure	CL15	b	R	F	CL15.bRF	2.2096	1.6294			40.05					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L2	2017	warming	CL2	a	G	F	CL2.aGF	2.0627	1.0605			31.1					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L2	2017	warming	CL2	b	G	F	CL2.bGF	2.0714	1.1001			45.9					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L2	2017	warming	CL2	a	R	F	CL2.aRF	2.1808	1.5683			31.1					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L2	2017	warming	CL2	b	R	F	CL2.bRF	2.2149	1.7494			45.9					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L3	2017	control	CL3	a	G	F	CL3.aGF	2.0102	0.9109			54.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L3	2017	control	CL3	b	G	F	CL3.bGF	1.9886	1.0513			56.3					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L3	2017	control	CL3	a	R	F	CL3.aRF	2.1812	1.5677			54.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L3	2017	control	CL3	b	R	F	CL3.bRF	2.1845	NA			56.3					25.6.2017	4.7.2018	374	bag ripped			
+Endalen	Cassiope	CAS-L4	2017	warming	CL4	a	G	F	CL4.aGF	2.0241	0.9875			43.4					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L4	2017	warming	CL4	b	G	F	CL4.bGF	2.0555	0.9462			57.1					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L4	2017	warming	CL4	a	R	F	CL4.aRF	2.1752	1.5856			43.4					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L4	2017	warming	CL4	b	R	F	CL4.bRF	2.2094	1.6793			57.1					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L5	2017	warming	CL5	a	G	F	CL5.aGF	2.0162	1.0476			43.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L5	2017	warming	CL5	b	G	F	CL5.bGF	1.9958	1.0658			28.7					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L5	2017	warming	CL5	a	R	F	CL5.aRF	2.2071	1.689			43.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L5	2017	warming	CL5	b	R	F	CL5.bRF	2.211	1.6365			28.7					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L6	2017	warming	CL6	a	G	F	CL6.aGF	2.0758	1.014			45.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L6	2017	warming	CL6	b	G	F	CL6.bGF	2.0771	0.9798			23.7					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L6	2017	warming	CL6	a	R	F	CL6.aRF	2.2318	1.6262			45.5					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L6	2017	warming	CL6	b	R	F	CL6.bRF	2.2551	1.5982			23.7					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L7	2017	control	CL7	a	G	F	CL7.aGF	2.0169	0.8932			52					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L7	2017	control	CL7	b	G	F	CL7.bGF	2.1287	0.8731			28.7					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L7	2017	control	CL7	a	R	F	CL7.aRF	2.2451	1.6564			52					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L7	2017	control	CL7	b	R	F	CL7.bRF	2.1831	1.6141			28.7					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L8	2017	warming	CL8	a	G	F	CL8.aGF	2.1038	1.0266			52.9					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L8	2017	warming	CL8	b	G	F	CL8.bGF	2.0237	0.9089			49.8					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L8	2017	warming	CL8	a	R	F	CL8.aRF	2.176	1.528			52.9					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L8	2017	warming	CL8	b	R	F	CL8.bRF	2.2076	1.5519			49.8					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L9	2017	control	CL9	a	G	F	CL9.aGF	2.0928	0.9518			45.3					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L9	2017	control	CL9	b	G	F	CL9.bGF	2.1104	1.017			50.1					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L9	2017	control	CL9	a	R	F	CL9.aRF	2.2158	1.5517			45.3					25.6.2017	4.7.2018	374				
+Endalen	Cassiope	CAS-L9	2017	control	CL9	b	R	F	CL9.bRF	2.2325	1.5832			50.1					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L1	2017	control	DL1	a	G	F	DL1.aGF	2.0348	0.9069			22.4					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L1	2017	control	DL1	b	G	F	DL1.bGF	2.0175	0.8385			26.1					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L1	2017	control	DL1	a	R	F	DL1.aRF	2.2267	1.6561			22.4					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L1	2017	control	DL1	b	R	F	DL1.bRF	2.2502	1.6618			26.1					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L10	2017	warming	DL10	a	G	F	DL10.aGF	2.0481	0.9319			29.1					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L10	2017	warming	DL10	b	G	F	DL10.bGF	2.0202	0.7898			20.1					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L10	2017	warming	DL10	a	R	F	DL10.aRF	2.2593	1.6039			29.1					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L10	2017	warming	DL10	b	R	F	DL10.bRF	2.2844	1.614			20.1					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L11	2017	exclosure	DL11	a	G	F	DL11.aGF	1.9792	0.9348			40.2					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L11	2017	exclosure	DL11	b	G	F	DL11.bGF	2.0211	0.9063			39.8					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L11	2017	exclosure	DL11	a	R	F	DL11.aRF	2.1966	1.6352			40.2					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L11	2017	exclosure	DL11	b	R	F	DL11.bRF	2.2282	1.6524			39.8					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L14	2017	warming	DL12	a	G	F	DL12.aGF	1.9993	0.956			44.1					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L15	2017	warming	DL12	b	G	F	DL12.bGF	1.9791	0.9481			28.8					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L12	2017	warming	DL12	a	R	F	DL12.aRF	2.2204	NA			44.1					25.6.2017	4.7.2018	374	bag lost			
+Endalen	Dryas	DRY-L12	2017	warming	DL12	b	R	F	DL12.bRF	2.1947	1.725			28.8					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L13	2017	exclosure	DL13	a	G	F	DL13.aGF	1.9675	1.0092			30.4					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L13	2017	exclosure	DL13	b	G	F	DL13.bGF	1.9862	0.8562			37.7					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L13	2017	exclosure	DL13	a	R	F	DL13.aRF	2.276	1.6574			30.4					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L13	2017	exclosure	DL13	b	R	F	DL13.bRF	2.2525	1.6884			37.7					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L14	2017	warming	DL14	a	G	F	DL14.aGF	2.0321	0.8779			32.7					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L14	2017	warming	DL14	b	G	F	DL14.bGF	2.0005	0.7882			35.5					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L14	2017	warming	DL14	a	R	F	DL14.aRF	2.1505	1.6735			32.7					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L14	2017	warming	DL14	b	R	F	DL14.bRF	2.1715	1.6105			35.5					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L15	2017	exclosure	DL15	a	G	F	DL15.aGF	2.0571	0.9134			45.9					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L15	2017	exclosure	DL15	b	G	F	DL15.bGF	2.027	0.9208			47.8					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L15	2017	exclosure	DL15	a	R	F	DL15.aRF	2.1561	1.5808			45.9					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L15	2017	exclosure	DL15	b	R	F	DL15.bRF	2.2156	1.6306			47.8					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L2	2017	control	DL2	a	G	F	DL2.aGF	2.0568	0.7684			17.8					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L2	2017	control	DL2	b	G	F	DL2.bGF	2.0673	0.864			28.8					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L2	2017	control	DL2	a	R	F	DL2.aRF	2.2395	1.6308			17.8					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L2	2017	control	DL2	b	R	F	DL2.bRF	2.2136	1.5787			28.8					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L3	2017	warming	DL3	a	G	F	DL3.aGF	2.0151	0.8421			49.7					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L3	2017	warming	DL3	b	G	F	DL3.bGF	1.9916	0.857			17.3					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L3	2017	warming	DL3	a	R	F	DL3.aRF	2.2377	1.5551			49.7					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L3	2017	warming	DL3	b	R	F	DL3.bRF	2.2057	1.5916			17.3					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L4	2017	warming	DL4	a	G	F	DL4.aGF	2.0028	0.9816			38.5					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L4	2017	warming	DL4	b	G	F	DL4.bGF	1.9429	0.7531			35.7					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L4	2017	warming	DL4	a	R	F	DL4.aRF	2.2237	1.5841			38.5					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L4	2017	warming	DL4	b	R	F	DL4.bRF	2.2576	1.6292			35.7					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L5	2017	control	DL5	a	G	F	DL5.aGF	1.9926	0.8697			31.4					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L5	2017	control	DL5	b	G	F	DL5.bGF	2.0495	0.9667			47.9					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L5	2017	control	DL5	a	R	F	DL5.aRF	2.1672	NA			31.4					25.6.2017	4.7.2018	374	bag ripped			
+Endalen	Dryas	DRY-L5	2017	control	DL5	b	R	F	DL5.bRF	2.2789	1.6782			47.9					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L6	2017	warming	DL6	a	G	F	DL6.aGF	1.9909	0.8945			30.9					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L6	2017	warming	DL6	b	G	F	DL6.bGF	1.9936	0.7843			14.9					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L6	2017	warming	DL6	a	R	F	DL6.aRF	2.2188	1.6585			30.9					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L6	2017	warming	DL6	b	R	F	DL6.bRF	2.2502	NA			14.9					25.6.2017	4.7.2018	374	bag ripped			
+Endalen	Dryas	DRY-L7	2017	control	DL7	a	G	F	DL7.aGF	1.989	0.7794			46					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L7	2017	control	DL7	b	G	F	DL7.bGF	1.9737	0.8884			23.1					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L7	2017	control	DL7	a	R	F	DL7.aRF	2.2363	1.6306			46					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L7	2017	control	DL7	b	R	F	DL7.bRF	2.2431	1.6462			23.1					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L8	2017	control	DL8	a	G	F	DL8.aGF	2.0081	0.8767			40.6					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L8	2017	control	DL8	b	G	F	DL8.bGF	1.9213	0.8616			38.9					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L8	2017	control	DL8	a	R	F	DL8.aRF	2.2252	1.6215			40.6					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L8	2017	control	DL8	b	R	F	DL8.bRF	2.2699	NA			38.9					25.6.2017	4.7.2018	374	bag lost			
+Endalen	Dryas	DRY-L9	2017	warming	DL9	a	G	F	DL9.aGF	1.9713	0.8458			25.5					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L9	2017	warming	DL9	b	G	F	DL9.bGF	1.9639	NA			26.6					25.6.2017	4.7.2018	374	bag ripped			
+Endalen	Dryas	DRY-L9	2017	warming	DL9	a	R	F	DL9.aRF	2.2306	1.6516			25.5					25.6.2017	4.7.2018	374				
+Endalen	Dryas	DRY-L9	2017	warming	DL9	b	R	F	DL9.bRF	2.1825	1.5916			26.6					25.6.2017	4.7.2018	374				
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									

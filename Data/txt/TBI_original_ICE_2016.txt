@@ -1,0 +1,401 @@
+location	site	habitat	year	ttm	plot.code	teabag.pair	tea.type	length	code	initial.weight	final.weight	soil.moisture.1	soil.moisture.2	soil.moisture.m	moss.thickness	litter.thickness	shrubs	soil.depth	burial.date	recovery.date	days.buried	ph.1	ph.2	ph.m	comments
+Iceland	Audkuluheidi	shrub heath	2016	control	AC1	a	G	3	AC1.aG3	2.0310	0.9983			31.9	10				12.6.2016	25.9.2016	105	5.89	5.89	5.89	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC1	b	G	3	AC1.bG3	2.1111	0.9239			31.7	2		BETNAN		12.6.2016	25.9.2016	105	5.9	5.9	5.90	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC1	a	R	3	AC1.aR3	2.1312	0.9983			31.9	10				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC1	b	R	3	AC1.bR3	2.1714	1.6138			31.7	2		BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC10	a	G	3	AC10.aG3	2.1242	1.0368			35.5	3				12.6.2016	25.9.2016	105	5.83	5.82	5.83	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC10	b	G	3	AC10.bG3	1.9661	0.9807			22.3	12				12.6.2016	25.9.2016	105	5.94	5.88	5.91	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC10	a	R	3	AC10.aR3	2.1227	1.5687			35.5	3				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC10	b	R	3	AC10.bR3	2.1861	1.7043			22.3	12				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC2	a	G	3	AC2.aG3	2.0216	1.0868			33.9	6				12.6.2016	25.9.2016	105	5.91	5.91	5.91	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC2	b	G	3	AC2.bG3	2.1655	1.2102			55.2	2.5				12.6.2016	25.9.2016	105	5.95	5.95	5.95	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC2	a	R	3	AC2.aR3	2.1226	1.6255			33.9	5.5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC2	b	R	3	AC2.bR3	2.1358	1.7255			55.2	4				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC3	a	G	3	AC3.aG3	2.0243	1.0122			45.8	4				12.6.2016	25.9.2016	105	5.86	5.86	5.86	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC3	b	G	3	AC3.bG3	2.1431	1.1095			31.3	2		SILACA		12.6.2016	25.9.2016	105	5.72	5.72	5.72	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC3	a	R	3	AC3.aR3	2.1314	1.6564			45.8	4		BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC3	b	R	3	AC3.bR3	2.1501	1.5205			31.3	3				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC4	a	G	3	AC4.aG3	2.1163	1.0189			42	10		BETNAN		12.6.2016	25.9.2016	105	6.04	6.04	6.04	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC4	b	G	3	AC4.bG3	2.0705	1.094			43.3	10				12.6.2016	25.9.2016	105	5.86	5.86	5.86	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC4	a	R	3	AC4.aR3	2.1266	1.601			42	7				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC4	b	R	3	AC4.bR3	2.1768	1.7619			43.3	4		BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC5	a	G	3	AC5.aG3	1.9714	0.9764			23.9	0	3	BETNAN		12.6.2016	25.9.2016	105	5.74	5.77	5.76	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC5	b	G	3	AC5.bG3	2.1876	1.1177			34.8	2				12.6.2016	25.9.2016	105	5.95	5.76	5.86	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC5	a	R	3	AC5.aR3	2.1561	1.6259			23.9	4				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC5	b	R	3	AC5.bR3	2.1246	1.5838			34.8	6				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC6	a	G	3	AC6.aG3	2.0781	1.0391			39.3	0	2			12.6.2016	25.9.2016	105	5.78	5.81	5.80	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC6	b	G	3	AC6.bG3	2.0221	1.0658			35.2	4.5				12.6.2016	25.9.2016	105	5.97	5.96	5.97	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC6	a	R	3	AC6.aR3	2.1682	1.6806			39.3	9				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC6	b	R	3	AC6.bR3	2.1455	1.657			35.2	5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC7	a	G	3	AC7.aG3	1.9878	1.0074			30	4				12.6.2016	25.9.2016	105	5.86	5.91	5.89	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC7	b	G	3	AC7.bG3	2.1415	1.0465			28.2	5.5				12.6.2016	25.9.2016	105	5.84	5.86	5.85	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC7	a	R	3	AC7.aR3	2.1641	1.6555			30	5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC7	b	R	3	AC7.bR3	2.1781	1.6596			28.2	2				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC8	a	G	3	AC8.aG3	2.0563	0.9914			39	9				12.6.2016	25.9.2016	105	5.66	5.68	5.67	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC8	b	G	3	AC8.bG3	2.1003	1.1124			36.4	6.5				12.6.2016	25.9.2016	105	5.93	5.92	5.93	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC8	a	R	3	AC8.aR3	2.0831	1.6104			39	5.5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC8	b	R	3	AC8.bR3	2.1111	1.6238			36.4	2				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC9	a	G	3	AC9.aG3	2.0682	0.9199			44.8	3				12.6.2016	25.9.2016	105	5.58	5.57	5.58	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC9	b	G	3	AC9.bG3	2.1107	1.0911			46.5	4				12.6.2016	25.9.2016	105	5.75	5.74	5.75	
+Iceland	Audkuluheidi	shrub heath	2016	control	AC9	a	R	3	AC9.aR3	2.1361	1.594			44.8	5.5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC9	b	R	3	AC9.bR3	2.1128	1.6057			46.5	5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG1	a	G	3	AG1.aG3	2.1145	1.1084			36.8	5				12.6.2016	25.9.2016	105	6.03	6.21	6.12	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG1	b	G	3	AG1.bG3	2.0379	1.0376			30.4	2		BETNAN		12.6.2016	25.9.2016	105	6.12	6.13	6.13	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG1	a	R	3	AG1.aR3	2.1465	NA			36.8	4				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG1	b	R	3	AG1.bR3	2.0998	1.5714			30.4	5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG10	a	G	3	AG10.aG3	2.1532	1.0781			40.6	5				12.6.2016	25.9.2016	105	5.83	5.83	5.83	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG10	b	G	3	AG10.bG3	2.0061	0.9172			33.4	3				12.6.2016	25.9.2016	105	5.95	5.84	5.90	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG10	a	R	3	AG10.aR3	2.1556	1.5508			40.6	3				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG10	b	R	3	AG10.bR3	2.0793	1.5841			33.4	6.5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG2	a	G	3	AG2.aG3	2.1861	1.0713			26.4	6				12.6.2016	25.9.2016	105	5.77	5.91	5.84	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG2	b	G	3	AG2.bG3	1.9756	1.0314			31.6	2		BETNAN		12.6.2016	25.9.2016	105	5.96	6.06	6.01	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG2	a	R	3	AG2.aR3	0.1578	1.5684			26.4	7		BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG2	b	R	3	AG2.bR3	2.1814	1.6038			31.6	2				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG3	a	G	3	AG3.aG3	2.1162	1.0071			37.9	5				12.6.2016	25.9.2016	105	6.19	6.18	6.19	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG3	b	G	3	AG3.bG3	1.9547	0.9814			30.1	5				12.6.2016	25.9.2016	105	6.06	5.99	6.03	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG3	a	R	3	AG3.aR3	2.1668	1.6432			37.9	10				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG3	b	R	3	AG3.bR3	2.1681	1.6326			30.1	4				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG4	a	G	3	AG4.aG3	2.0845	1.0041			34.8	2				12.6.2016	25.9.2016	105	5.87	6.01	5.94	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG4	b	G	3	AG4.bG3	2.1689	1.0748			43.4	5				12.6.2016	25.9.2016	105	5.91	5.88	5.90	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG4	a	R	3	AG4.aR3	2.1223	1.6183			34.8	1				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG4	b	R	3	AG4.bR3	2.2096	1.6218			42.4	2				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG5	a	G	3	AG5.aG3	2.0609	0.9751			44.6	5				12.6.2016	25.9.2016	105	6.06	6.12	6.09	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG5	b	G	3	AG5.bG3	1.9889	1.0596			50.1	5				12.6.2016	25.9.2016	105	6.13	6.15	6.14	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG5	a	R	3	AG5.aR3	2.1665	1.5509			44.6	3.5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG5	b	R	3	AG5.bR3	2.1801	1.6298			50.1	0				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG6	a	G	3	AG6.aG3	1.9445	0.9357			33.5	4				12.6.2016	25.9.2016	105	5.78	5.77	5.78	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG6	b	G	3	AG6.bG3	2.1393	1.0807			26.6	3				12.6.2016	25.9.2016	105	5.74	5.71	5.73	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG6	a	R	3	AG6.aR3	2.1498	1.6847			33.5	8				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG6	b	R	3	AG6.bR3	2.1412	1.6006			26.6	1.5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG7	a	G	3	AG7.aG3	2.0312	0.9395			45.1	2				12.6.2016	25.9.2016	105	5.68	5.67	5.68	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG7	b	G	3	AG7.bG3	1.8904	0.9015			38.5	3				12.6.2016	25.9.2016	105	5.92	5.84	5.88	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG7	a	R	3	AG7.aR3	2.1418	1.5904			45.1	7				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG7	b	R	3	AG7.bR3	2.2011	1.6666			38.5	1				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG8	a	G	3	AG8.aG3	2.1006	NA			35.1	3				12.6.2016	25.9.2016	105	5.72	5.82	5.77	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG8	b	G	3	AG8.bG3	2.0415	1.1047			38.2	0		EMPNIG		12.6.2016	25.9.2016	105	5.71	5.73	5.72	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG8	a	R	3	AG8.aR3	2.1945	1.6281			35.1	8		BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG8	b	R	3	AG8.bR3	2.1565	1.5674			38.2	1.5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG9	a	G	3	AG9.aG3	2.0627	0.9918			29.9	8				12.6.2016	25.9.2016	105	5.89	5.90	5.90	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG9	b	G	3	AG9.bG3	1.9847	1.032			39	7				12.6.2016	25.9.2016	105	5.94	6.00	5.97	
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG9	a	R	3	AG9.aR3	2.1894	1.6727			29.9	2				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG9	b	R	3	AG9.bR3	2.2155	1.6121			39	8				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO1	a	G	3	AO1.aG3	1.9995	0.8751			26.3	0	3	BETNAN		12.6.2016	25.9.2016	105	5.90	5.83	5.87	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO1	b	G	3	AO1.bG3	2.0104	0.8296			30.3	2		EMPNIG		12.6.2016	25.9.2016	105	5.92	5.90	5.91	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO1	a	R	3	AO1.aR3	2.2142	1.7221			26.3	4		BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO1	b	R	3	AO1.bR3	2.2023	1.6046			30.3	ath		BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO10	a	G	3	AO10.aG3	2.0656	1.078			27.9	4				12.6.2016	25.9.2016	105	5.67	5.87	5.77	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO10	b	G	3	AO10.bG3	2.0651	0.9683			27.7	1				12.6.2016	25.9.2016	105	5.82	5.81	5.82	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO10	a	R	3	AO10.aR3	2.2312	1.6541			27.9	3				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO10	b	R	3	AO10.bR3	2.2218	1.7302			27.7	0	3	BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO2	a	G	3	AO2.aG3	2.0345	0.8712			27	0	3	BETNAN, EMPNIG		12.6.2016	25.9.2016	105	5.81	5.90	5.86	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO2	b	G	3	AO2.bG3	2.0807	0.8679			35.7	0	4	BETNAN		12.6.2016	25.9.2016	105	6.09	5.98	6.04	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO2	a	R	3	AO2.aR3	2.1732	1.6274			27	0	4	BETNAN, EMPNIG		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO2	b	R	3	AO2.bR3	2.2171	1.6553			35.7	0	2	BETNAN, EMPNIG		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO3	a	G	3	AO3.aG3	2.1892	0.9277			33.8	6		BETNAN		12.6.2016	25.9.2016	105	5.67	5.73	5.70	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO3	b	G	3	AO3.bG3	2.0827	0.868			53.3	0	4	BETNAN, EMPNIG		12.6.2016	25.9.2016	105	5.86	5.77	5.82	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO3	a	R	3	AO3.aR3	2.1974	1.6582			33.8	0	3	EMPNIG, VACULI		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO3	b	R	3	AO3.bR3	2.1349	1.5729			53.3	2		EMPNIG, BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO4	a	G	3	AO4.aG3	2.0438	1.1633			31.4	3.5				12.6.2016	25.9.2016	105	6.01	5.98	6.00	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO4	b	G	3	AO4.bG3	2.0121	0.8349			34	3		SILACA		12.6.2016	25.9.2016	105	5.72	5.78	5.75	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO4	a	R	3	AO4.aR3	2.1574	1.5979			31.4	4				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO4	b	R	3	AO4.bR3	2.1467	NA			34	3.5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO5	a	G	3	AO5.aG3	2.0308	1.0852			30.7	3		SAL		12.6.2016	25.9.2016	105	5.47	5.45	5.46	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO5	b	G	3	AO5.bG3	2.0772	0.8825			37.4	0	1.5			12.6.2016	25.9.2016	105	5.64	5.64	5.64	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO5	a	R	3	AO5.aR3	2.2052	1.6965			30.7	0	1	BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO5	b	R	3	AO5.bR3	2.1489	1.6733			37.4	1				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO6	a	G	3	AO6.aG3	2.0634	1.0133			32.5	5		BETNAN, SALLAN		12.6.2016	25.9.2016	105	6.22	6.22	6.22	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO6	b	G	3	AO6.bG3	2.0133	0.94			41.4	4.5				12.6.2016	25.9.2016	105	5.92	5.92	5.92	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO6	a	R	3	AO6.aR3	2.1883	1.6383			32.5	8.5				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO6	b	R	3	AO6.bR3	2.1457	1.6925			41.4	0	4	BETNAN		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO7	a	G	3	AO7.aG3	1.9216	0.8315			43.4	0	4	EMPNIG		12.6.2016	25.9.2016	105	5.63	5.67	5.65	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO7	b	G	3	AO7.bG3	2.1023	0.9998			42.2	1				12.6.2016	25.9.2016	105	5.69	5.65	5.67	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO7	a	R	3	AO7.aR3	2.1296	1.5761			43.4	4				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO7	b	R	3	AO7.bR3	2.1813	1.6005			42.2	2				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO8	a	G	3	AO8.aG3	2.1450	1.0136			35.1	2				12.6.2016	25.9.2016	105	5.75	5.71	5.73	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO8	b	G	3	AO8.bG3	2.1356	1.0844			30.9	5				12.6.2016	25.9.2016	105	5.76	5.72	5.74	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO8	a	R	3	AO8.aR3	2.1590	1.6056			35.1	11				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO8	b	R	3	AO8.bR3	2.1482	1.6621			30.9	0	3	EMPNIG, SILACA, 		12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO9	a	G	3	AO9.aG3	2.1289	1.0096			30.9	4				12.6.2016	25.9.2016	105	5.67	5.62	5.65	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO9	b	G	3	AO9.bG3	2.0511	0.9144			35.1	3				12.6.2016	25.9.2016	105	5.64	5.61	5.63	
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO9	a	R	3	AO9.aR3	2.2161	1.6147			30.9	4				12.6.2016	25.9.2016	105				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO9	b	R	3	AO9.bR3	2.1695	1.641			35.1	1				12.6.2016	25.9.2016	105				
+Iceland	Thingvellir	moss heath	2016	control	TC1	a	G	3	TC1.aG3	2.0942	0.9657			37.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC1	b	G	3	TC1.bG3	1.9897	0.9994			49.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC1	a	R	3	TC1.aR3	2.2390	1.6502			37.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC1	b	R	3	TC1.bR3	2.2179	1.7015			49.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC10	a	G	3	TC10.aG3	2.0179	0.9822			44					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC10	b	G	3	TC10.bG3	2.0285	1.0098			28.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC10	a	R	3	TC10.aR3	2.2090	1.6749			44					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC10	b	R	3	TC10.bR3	2.2168	1.6989			28.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC2	a	G	3	TC2.aG3	1.8707	0.9555			34.2					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC2	b	G	3	TC2.bG3	2.0758	1.0386			23.1					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC2	a	R	3	TC2.aR3	2.1782	1.7115			34.2					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC2	b	R	3	TC2.bR3	2.2469	1.7245			23.1					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC3	a	G	3	TC3.aG3	2.1078	1.0186			43					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC3	b	G	3	TC3.bG3	1.9187	0.8544			32.8					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC3	a	R	3	TC3.aR3	2.1920	1.5189			43					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC3	b	R	3	TC3.bR3	2.1391	1.7085			32.8					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC4	a	G	3	TC4.aG3	1.9751	0.9415			42.5					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC4	b	G	3	TC4.bG3	2.0020	1.0041			39.7					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC4	a	R	3	TC4.aR3	2.1090	1.6675			42.5					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC4	b	R	3	TC4.bR3	2.1277	1.6449			39.7					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC5	a	G	3	TC5.aG3	2.1678	0.9817			26.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC5	b	G	3	TC5.bG3	2.0728	0.9426			46.1					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC5	a	R	3	TC5.aR3	2.1868	1.7041			26.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC5	b	R	3	TC5.bR3	2.1108	1.6419			46.1					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC6	a	G	3	TC6.aG3	1.9882	1.0669			39.4					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC6	b	G	3	TC6.bG3	1.9784	0.9683			55.5					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC6	a	R	3	TC6.aR3	2.1041	1.7439			39.4					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC6	b	R	3	TC6.bR3	2.1344	1.8342			55.5					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC7	a	G	3	TC7.aG3	1.9743	0.9147			47.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC7	b	G	3	TC7.bG3	2.0699	0.901			46.2					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC7	a	R	3	TC7.aR3	2.1002	1.6156			47.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC7	b	R	3	TC7.bR3	2.1540	1.5796			46.2					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC8	a	G	3	TC8.aG3	1.9967	1.1649			32.4					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC8	b	G	3	TC8.bG3	1.9794	0.9923			47.9					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC8	a	R	3	TC8.aR3	2.2091	1.7658			32.4					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC8	b	R	3	TC8.bR3	2.1839	1.6354			47.9					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC9	a	G	3	TC9.aG3	2.1110	0.9619			33.5					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC9	b	G	3	TC9.bG3	2.0269	1.0088			34.4					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC9	a	R	3	TC9.aR3	2.2198	1.713			33.5					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	control	TC9	b	R	3	TC9.bR3	2.1991	1.7956			34.4					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO1	a	G	3	TO1.aG3	1.9565	0.9967			60.5					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO1	b	G	3	TO1.bG3	1.9783	0.9814			85.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO1	a	R	3	TO1.aR3	2.1599	1.702			60.5					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO1	b	R	3	TO1.bR3	2.2072	1.6341			85.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO10	a	G	3	TO10.aG3	2.1127	0.8329			27					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO10	b	G	3	TO10.bG3	2.1699	1.0725			24.2					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO10	a	R	3	TO10.aR3	2.1386	1.6266			27					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO10	b	R	3	TO10.bR3	2.2156	1.664			24.2					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO2	a	G	3	TO2.aG3	1.9722	1.0322			32.9					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO2	b	G	3	TO2.bG3	2.0676	0.9843			30.7					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO2	a	R	3	TO2.aR3	2.1991	1.7911			32.9					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO2	b	R	3	TO2.bR3	2.2685	1.7379			30.7					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO3	a	G	3	TO3.aG3	2.1079	1.0165			46					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO3	b	G	3	TO3.bG3	2.1647	1.0516			56.8					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO3	a	R	3	TO3.aR3	2.1508	1.6347			46					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO3	b	R	3	TO3.bR3	2.0455	1.5847			56.8					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO4	a	G	3	TO4.aG3	2.1323	1.0252			34.9					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO4	b	G	3	TO4.bG3	2.0272	NA			79					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO4	a	R	3	TO4.aR3	2.1970	1.7347			34.9					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO4	b	R	3	TO4.bR3	2.1431	1.6946			79					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO5	a	G	3	TO5.aG3	2.0598	0.9841			36.4					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO5	b	G	3	TO5.bG3	2.1043	0.9192			46.6					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO5	a	R	3	TO5.aR3	2.1065	1.4929			36.4					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO5	b	R	3	TO5.bR3	2.0961	1.5773			46.6					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO6	a	G	3	TO6.aG3	2.0807	0.9367			44.9					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO6	b	G	3	TO6.bG3	2.0170	0.9181								2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO6	a	R	3	TO6.aR3	2.1281	1.5125			44.9					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO6	b	R	3	TO6.bR3	2.0773	1.5136								2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO7	a	G	3	TO7.aG3	2.1169	0.9456			47.8					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO7	b	G	3	TO7.bG3	2.0046	0.8276			42.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO7	a	R	3	TO7.aR3	2.1709	1.5778			47.8					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO7	b	R	3	TO7.bR3	2.1341	1.6748			42.3					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO8	a	G	3	TO8.aG3	2.0566	1.0207			35.5					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO8	b	G	3	TO8.bG3	2.0541	1.0026			85.4					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO8	a	R	3	TO8.aR3	2.1379	1.6307			35.5					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO8	b	R	3	TO8.bR3	2.1288	1.653			85.4					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO9	a	G	3	TO9.aG3	2.0999	0.9951			100					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO9	b	G	3	TO9.bG3	2.0524	1.0396			37.9					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO9	a	R	3	TO9.aR3	2.0914	1.6586			100					2.6.2016	4.9.2016	94				
+Iceland	Thingvellir	moss heath	2016	warming	TO9	b	R	3	TO9.bR3	2.2166	1.8085			37.9					2.6.2016	4.9.2016	94				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC1	a	G	F	AC1.aGF	2.1377	0.9847			31	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC1	b	G	F	AC1.bGF	2.2068	1.0076			27.9	5.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC1	a	R	F	AC1.aRF	2.0853	1.604			31	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC1	b	R	F	AC1.bRF	2.1967	1.5981			27.9	5.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC10	a	G	F	AC10.aGF	2.0004	0.9249			29.7	3				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC10	b	G	F	AC10.bGF	1.8582	0.8886			21.5	10				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC10	a	R	F	AC10.aRF	2.1340	1.5552			29.7	3				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC10	b	R	F	AC10.bRF	2.1037	1.5362			21.5	10				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC2	a	G	F	AC2.aGF	2.2025	1.0005			21.2	6				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC2	b	G	F	AC2.bGF	2.0745	0.909			49.9	2.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC2	a	R	F	AC2.aRF	2.1379	1.5407			21.2	5.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC2	b	R	F	AC2.bRF	2.1229	1.539			49.9	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC3	a	G	F	AC3.aGF	1.9674	NA			63.8	4				12.6.2016	14.6.2017	367	bag ripped			
+Iceland	Audkuluheidi	shrub heath	2016	control	AC3	b	G	F	AC3.bGF	2.0686	0.9219			33.7	2		SILACA		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC3	a	R	F	AC3.aRF	2.1597	1.5747			63.8	4		BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC3	b	R	F	AC3.bRF	2.0896	NA			33.7	3				12.6.2016	14.6.2017	367	bag ripped			
+Iceland	Audkuluheidi	shrub heath	2016	control	AC4	a	G	F	AC4.aGF	2.0518	0.9225			34.9	10		BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC4	b	G	F	AC4.bGF	2.0011	0.9474			40.9	10				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC4	a	R	F	AC4.aRF	2.1786	1.5805			34.9	7				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC4	b	R	F	AC4.bRF	2.2017	1.6327			40.9	4		BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC5	a	G	F	AC5.aGF	2.0060	1.0005			27.7	0	3	BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC5	b	G	F	AC5.bGF	2.0264	0.9918			32.9	2				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC5	a	R	F	AC5.aRF	2.2022	1.6221			27.7	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC5	b	R	F	AC5.bRF	2.1353	NA			32.9	6				12.6.2016	14.6.2017	367	bag ripped			
+Iceland	Audkuluheidi	shrub heath	2016	control	AC6	a	G	F	AC6.aGF	2.0370	0.952			43	0	2			12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC6	b	G	F	AC6.bGF	2.0367	0.9357			40.3	4.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC6	a	R	F	AC6.aRF	2.1699	1.5627			43	9				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC6	b	R	F	AC6.bRF	2.1858	1.5846			40.3	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC7	a	G	F	AC7.aGF	1.9501	0.8333			35.5	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC7	b	G	F	AC7.bGF	2.0403	1.0891			12.9	5.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC7	a	R	F	AC7.aRF	2.1745	1.6069			35.5	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC7	b	R	F	AC7.bRF	2.1077	1.564			12.9	2				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC8	a	G	F	AC8.aGF	2.0038	0.9741			22.6	9				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC8	b	G	F	AC8.bGF	1.9679	0.9836			14.2	6.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC8	a	R	F	AC8.aRF	2.1342	1.6607			22.6	5.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC8	b	R	F	AC8.bRF	2.1550	1.5734			14.2	2				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC9	a	G	F	AC9.aGF	2.1017	0.9607			42	3				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC9	b	G	F	AC9.bGF	2.0861	0.914			19.6	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC9	a	R	F	AC9.aRF	2.1314	1.7014			42	5.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	control	AC9	b	R	F	AC9.bRF	2.1585	1.602			19.6	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG1	a	G	F	AG1.aGF	2.0668	0.9937			32.8	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG1	b	G	F	AG1.bGF	2.0495	0.9917			28.3	2		BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG1	a	R	F	AG1.aRF	2.1530	1.542			32.8	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG1	b	R	F	AG1.bRF	2.1189	1.5015			28.3	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG10	a	G	F	AG10.aGF	2.1026	0.9853			38.8	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG10	b	G	F	AG10.bGF	2.0594	0.9825			39.2	3				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG10	a	R	F	AG10.aRF	2.0558	1.5047			38.8	3				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG10	b	R	F	AG10.bRF	2.0674	NA			39.2	6.5				12.6.2016	14.6.2017	367	lost			
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG2	a	G	F	AG2.aGF	2.0402	NA			32.2	6				12.6.2016	14.6.2017	367	lost			
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG2	b	G	F	AG2.bGF	2.0472	0.8852			32.1	2		BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG2	a	R	F	AG2.aRF	2.1050	1.524			32.2	7		BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG2	b	R	F	AG2.bRF	2.1565	1.5343			32.1	2				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG3	a	G	F	AG3.aGF	2.0816	1.0521			32	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG3	b	G	F	AG3.bGF	2.1030	0.8957			38.2	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG3	a	R	F	AG3.aRF	2.1510	1.5792			32	10				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG3	b	R	F	AG3.bRF	2.1665	1.5213			38.2	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG4	a	G	F	AG4.aGF	2.0478	0.9618			44.3	2				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG4	b	G	F	AG4.bGF	2.0404	0.9191			28	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG4	a	R	F	AG4.aRF	2.1852	1.5881			44.3	1				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG4	b	R	F	AG4.bRF	2.1675	1.5493			28	2				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG5	a	G	F	AG5.aGF	1.9555	NA			39.5	5				12.6.2016	14.6.2017	367	lost			
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG5	b	G	F	AG5.bGF	2.0432	0.9697			46.8	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG5	a	R	F	AG5.aRF	2.1652	1.5464			39.5	3.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG5	b	R	F	AG5.bRF	2.1922	1.5317			46.8	0				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG6	a	G	F	AG6.aGF	2.0705	1.0254			44.3	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG6	b	G	F	AG6.bGF	2.0211	0.9648			16.5	3				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG6	a	R	F	AG6.aRF	2.1392	1.632			44.3	8				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG6	b	R	F	AG6.bRF	2.1539	1.4971			16.5	1.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG7	a	G	F	AG7.aGF	1.9358	0.9584			41	2				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG7	b	G	F	AG7.bGF	1.9715	0.8972			24.7	3				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG7	a	R	F	AG7.aRF	2.1844	1.5756			41	7				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG7	b	R	F	AG7.bRF	2.1635	1.5965			24.7	1				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG8	a	G	F	AG8.aGF	1.9778	0.9871			21.5	3				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG8	b	G	F	AG8.bGF	2.0387	0.9491			35.5	0		EMPNIG		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG8	a	R	F	AG8.aRF	2.1927	1.6625			21.5	8		BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG8	b	R	F	AG8.bRF	2.1802	1.5859			35.5	1.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG9	a	G	F	AG9.aGF	2.0253	0.8718			39.3	8				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG9	b	G	F	AG9.bGF	2.0016	1.0214			29.7	7				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG9	a	R	F	AG9.aRF	2.1957	1.5373			39.3	2				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	grazed	AG9	b	R	F	AG9.bRF	2.1413	1.619			29.7	8				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO1	a	G	F	AO1.aGF	1.9209	0.8858			17.8	0	3	BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO1	b	G	F	AO1.bGF	1.9444	0.9084			23.5	2		EMPNIG		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO1	a	R	F	AO1.aRF	2.2121	1.6677			17.8	4		BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO1	b	R	F	AO1.bRF	2.2341	1.6132			23.5	ath		BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO10	a	G	F	AO10.aGF	2.0609	1.0333			25	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO10	b	G	F	AO10.bGF	2.0581	0.7721			33.5	1				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO10	a	R	F	AO10.aRF	2.2303	1.5479			25	3				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO10	b	R	F	AO10.bRF	2.1922	1.6136			33.5	0	3	BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO2	a	G	F	AO2.aGF	2.0587	0.8216			25.4	0	3	BETNAN, EMPNIG		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO2	b	G	F	AO2.bGF	2.0768	0.9026			37	0	4	BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO2	a	R	F	AO2.aRF	2.1899	1.6224			25.4	0	4	BETNAN,EMPNIG		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO2	b	R	F	AO2.bRF	2.2438	1.6137			37	0	2	BETNAN, EMPNIG		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO3	a	G	F	AO3.aGF	2.0758	1.0688			51.4	6		BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO3	b	G	F	AO3.bGF	2.0902	0.7568			33.1	0	4	BETNAN, EMPNIG		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO3	a	R	F	AO3.aRF	2.1802	1.5439			51.4	0	3	EMPNIG, VACULI		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO3	b	R	F	AO3.bRF	2.1475	1.5734			33.1	2		EMPNIG, BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO4	a	G	F	AO4.aGF	2.1035	0.9057			29.1	3.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO4	b	G	F	AO4.bGF	1.9443	0.7245			33.4	3		SILACA		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO4	a	R	F	AO4.aRF	2.1601	NA			29.1	4				12.6.2016	14.6.2017	367	bag ripped			
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO4	b	R	F	AO4.bRF	2.2306	1.5604			33.4	3.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO5	a	G	F	AO5.aGF	2.0091	0.787			19.3	3		SAL		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO5	b	G	F	AO5.bGF	2.0825	0.8701			33.7	0	1.5			12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO5	a	R	F	AO5.aRF	2.1845	1.5734			19.3	0	1	BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO5	b	R	F	AO5.bRF	2.1579	1.5343			33.7	1				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO6	a	G	F	AO6.aGF	1.9540	0.9448			27.7	5		BETNAN, SALLAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO6	b	G	F	AO6.bGF	2.0126	0.9312			27.3	4.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO6	a	R	F	AO6.aRF	2.1737	1.5705			27.7	8.5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO6	b	R	F	AO6.bRF	2.2513	1.6137			27.3	0	4	BETNAN		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO7	a	G	F	AO7.aGF	1.9961	0.7401			37.3	0	4	EMPNIG		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO7	b	G	F	AO7.bGF	2.1203	0.9786			36.9	1				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO7	a	R	F	AO7.aRF	2.1386	1.5548			37.3	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO7	b	R	F	AO7.bRF	2.1867	1.5682			36.9	2				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO8	a	G	F	AO8.aGF	2.0694	0.8816			35.7	2				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO8	b	G	F	AO8.bGF	2.0829	0.8801			19.5	5				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO8	a	R	F	AO8.aRF	2.1849	1.6395			35.7	11				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO8	b	R	F	AO8.bRF	2.2063	1.5167			19.5	0	3	EMPNIG, SILACA, 		12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO9	a	G	F	AO9.aGF	2.0026	0.8562			24.2	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO9	b	G	F	AO9.bGF	2.0831	0.8181			37.3	3				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO9	a	R	F	AO9.aRF	2.1874	1.5923			24.2	4				12.6.2016	14.6.2017	367				
+Iceland	Audkuluheidi	shrub heath	2016	warming	AO9	b	R	F	AO9.bRF	2.2247	1.6145			37.3	1				12.6.2016	14.6.2017	367				
+Iceland	Thingvellir	moss heath	2016	control	TC1	a	G	F	TC1.aGF	2.0174	0.738			53.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC1	b	G	F	TC1.bGF	2.0241	NA			26					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC1	a	R	F	TC1.aRF	2.1960	1.3205			53.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC1	b	R	F	TC1.bRF	2.2061	NA			26					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC10	a	G	F	TC10.aGF	2.0808	0.8588			30.2					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC10	b	G	F	TC10.bGF	2.1541	0.867			29					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC10	a	R	F	TC10.aRF	2.1832	1.5154			30.2					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC10	b	R	F	TC10.bRF	2.1827	1.4103			29					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC2	a	G	F	TC2.aGF	1.9995	0.8537			41.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC2	b	G	F	TC2.bGF	1.9514	0.7686			41.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC2	a	R	F	TC2.aRF	2.1975	1.4803			41.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC2	b	R	F	TC2.bRF	2.1717	1.4862			41.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC3	a	G	F	TC3.aGF	2.1043	0.7821			39.3					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC3	b	G	F	TC3.bGF	2.1020	0.7798								2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC3	a	R	F	TC3.aRF	2.1105	1.3973			39.3					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC3	b	R	F	TC3.bRF	2.1956	1.567								2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC4	a	G	F	TC4.aGF	1.9982	0.9405			25.6					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC4	b	G	F	TC4.bGF	2.0610	0.8647			23.6					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC4	a	R	F	TC4.aRF	2.1627	1.4535			25.6					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC4	b	R	F	TC4.bRF	2.1274	NA			23.6					2.6.2016	8.6.2017	371	TEABAG RIPPED			
+Iceland	Thingvellir	moss heath	2016	control	TC5	a	G	F	TC5.aGF	1.9905	0.5957			31.6					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC5	b	G	F	TC5.bGF	1.9688	0.7394			48.3					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC5	a	R	F	TC5.aRF	2.1569	1.4347			31.6					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC5	b	R	F	TC5.bRF	2.1590	NA			48.3					2.6.2016	8.6.2017	371	TEABAG LOST			
+Iceland	Thingvellir	moss heath	2016	control	TC6	a	G	F	TC6.aGF	2.1512	0.8418			30.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC6	b	G	F	TC6.bGF	2.1157	0.7164			48.3					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC6	a	R	F	TC6.aRF	2.1802	1.5394			30.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC6	b	R	F	TC6.bRF	2.1899	1.3781			48.3					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC7	a	G	F	TC7.aGF	1.9896	0.8672			44.4					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC7	b	G	F	TC7.bGF	2.1104	0.7058			48.2					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC7	a	R	F	TC7.aRF	2.1732	1.4537			44.4					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC7	b	R	F	TC7.bRF	2.1334	NA			48.2					2.6.2016	8.6.2017	371	TEABAG RIPPED			
+Iceland	Thingvellir	moss heath	2016	control	TC8	a	G	F	TC8.aGF	2.0820	0.765			37.5					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC8	b	G	F	TC8.bGF	2.0151	0.8235			26.1					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC8	a	R	F	TC8.aRF	2.2138	1.4408			37.5					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC8	b	R	F	TC8.bRF	2.2247	1.539			26.1					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC9	a	G	F	TC9.aGF	2.0548	0.843			24.8					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC9	b	G	F	TC9.bGF	1.9259	0.7529			37.3					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	control	TC9	a	R	F	TC9.aRF	2.2077	NA			24.8					2.6.2016	8.6.2017	371	TEABAG RIPPED			
+Iceland	Thingvellir	moss heath	2016	control	TC9	b	R	F	TC9.bRF	2.1855	1.4721			37.3					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO1	a	G	F	TO1.aGF	2.0340	0.7538			36.4					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO1	b	G	F	TO1.bGF	1.9619	0.8235			78.8					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO1	a	R	F	TO1.aRF	2.2412	1.6726			36.4					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO1	b	R	F	TO1.bRF	2.2685	NA			78.8					2.6.2016	8.6.2017	371	TEABAG LOST			
+Iceland	Thingvellir	moss heath	2016	warming	TO10	a	G	F	TO10.aGF	1.9958	0.7702			21.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO10	b	G	F	TO10.bGF	2.0207	0.7825			34.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO10	a	R	F	TO10.aRF	2.1919	1.361			21.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO10	b	R	F	TO10.bRF	2.2221	1.4391			34.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO2	a	G	F	TO2.aGF	2.0620	0.8022			27.1					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO2	b	G	F	TO2.bGF	1.9723	0.8505			33					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO2	a	R	F	TO2.aRF	2.1002	1.4135			27.1					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO2	b	R	F	TO2.bRF	2.2174	1.5657			33					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO3	a	G	F	TO3.aGF	1.9517	0.8421			28					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO3	b	G	F	TO3.bGF	1.8992	0.8322			30.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO3	a	R	F	TO3.aRF	2.1669	1.4508			28					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO3	b	R	F	TO3.bRF	2.1894	1.6491			30.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO4	a	G	F	TO4.aGF	1.9911	0.761			31.9					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO4	b	G	F	TO4.bGF	2.1292	0.7725			22.4					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO4	a	R	F	TO4.aRF	2.1659	1.4067			31.9					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO4	b	R	F	TO4.bRF	2.1469	1.4404			22.4					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO5	a	G	F	TO5.aGF	1.9807	0.7618			23.4					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO5	b	G	F	TO5.bGF	1.9916	0.779			19.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO5	a	R	F	TO5.aRF	2.1445	1.4195			23.4					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO5	b	R	F	TO5.bRF	2.1878	1.4841			19.7					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO6	a	G	F	TO6.aGF	2.1681	0.8091			30.6					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO6	b	G	F	TO6.bGF	2.1199	0.7329			29.2					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO6	a	R	F	TO6.aRF	2.1264	1.4678			30.6					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO6	b	R	F	TO6.bRF	2.1619	1.4308			29.2					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO7	a	G	F	TO7.aGF	2.1249	0.802			37.2					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO7	b	G	F	TO7.bGF	2.1197	0.7143			38.8					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO7	a	R	F	TO7.aRF	2.0297	1.2514			37.2					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO7	b	R	F	TO7.bRF	2.1269	1.3522			38.8					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO8	a	G	F	TO8.aGF	1.8896	0.8322			20.2					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO8	b	G	F	TO8.bGF	2.0039	0.6495			29.5					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO8	a	R	F	TO8.aRF	2.1687	1.4536			20.2					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO8	b	R	F	TO8.bRF	2.1686	1.3733			29.5					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO9	a	G	F	TO9.aGF	1.9107	0.8105			30.9					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO9	b	G	F	TO9.bGF	2.0629	0.8364			33.9					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO9	a	R	F	TO9.aRF	2.1418	1.3011			30.9					2.6.2016	8.6.2017	371				
+Iceland	Thingvellir	moss heath	2016	warming	TO9	b	R	F	TO9.bRF	2.0820	1.4526			33.9					2.6.2016	8.6.2017	371				
